@@ -1,0 +1,416 @@
+[
+	{
+		"unique": "SyvHKpbDM",
+		"address": "10 Jamestown Rd, London NW1 7BY",
+		"alcoholServed": false,
+		"amenities": [
+			{
+				"name": "Public Transport",
+				"class": "subway",
+				"key": "public transport"
+			},
+			{
+				"name": "Credit Card Accepted",
+				"class": "credit-card",
+				"key": "card"
+			},
+			{
+				"name": "Wheelchair Accessible",
+				"class": "wheelchair",
+				"key": "wheelchair"
+			},
+			{
+				"name": "Prayer Room",
+				"class": "moon-o",
+				"key": "prayer"
+			}
+		],
+		"chainId": 1,
+		"chainUnique": 1,
+		"city": "London",
+		"country": "United Kingdom",
+		"cuisine": [
+			{
+				"name": "Burgers"
+			}
+		],
+		"cuisines": [
+			{
+				"name": "Burgers"
+			}
+		],
+		"deliveryPartners": [
+			{
+				"id": "deliveroo-uk",
+				"displayName": "Deliveroo",
+				"name": "Deliveroo UK",
+				"countryCode": "GBR",
+				"currencyCode": "GBP",
+				"website": "https://deliveroo.co.uk/",
+				"webUrl": "https://deliveroo.co.uk/menu/london/camden/fatburger"
+			},
+			{
+				"id": "uber-eats-uk",
+				"name": "UberEats UK",
+				"displayName": "UberEats",
+				"countryCode": "GBR",
+				"currencyCode": "GBP",
+				"website": "https://ubereats.com/gb/",
+				"webUrl": "https://www.ubereats.com/gb/london/food-delivery/fatburger-camden/nQn_u-uoRPmiVyzE5yvLFQ"
+			}
+		],
+		"description": "Made-to-order burgers",
+		"email": "info@fatburger.com",
+		"enableDeliveryPartners": false,
+		"fairTradeDescription": null,
+		"fairTradeDescriptionDate": null,
+		"fairTradeDescriptionSource": null,
+		"featured": false,
+		"foursquareVenueId": "55662034498eebe98c67b97c",
+		"googlePlaceDetails": {},
+		"googlePlaceId": "ChIJD_V5b-EadkgReisRvZ5CxZc",
+		"halalAuthorities": [],
+		"halalDescription": "All beef and chicken is Halal.",
+		"halalDescriptionDate": "Wed, 14 Feb 2018 14:35:39 GMT",
+		"halalDescriptionSource": "joint:owner",
+		"halalMeat": true,
+		"halalRating": [],
+		"hasThumb": true,
+		"hmcCertified": false,
+		"id": 1,
+		"isFastFood": false,
+		"latitude": 51.5405154,
+		"locationName": "Camden",
+		"longitude": -0.1451874,
+		"name": "Fatburger",
+		"nickname": "Fatburger Camden",
+		"parkingDescription": null,
+		"parkingDescriptionDate": null,
+		"parkingDescriptionSource": null,
+		"pdfMenuUrl": null,
+		"postcode": "NW1 7BY",
+		"show": true,
+		"tags": [],
+		"telephone": "+442072677880",
+		"thumbUrl": "ChIJD_V5b-EadkgReisRvZ5CxZc.jpg",
+		"web": "https://www.fatburger.com",
+		"lastUpdatedDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdBy": "unknown",
+		"googleMapsUrl": "https://maps.google.com/?cid=10936220519683402618",
+		"googleRating": 3.6
+	},
+	{
+		"unique": "SJ6utaWPf",
+		"address": "10 Russell Gardens, Kensington, London W14 8EZ",
+		"alcoholServed": false,
+		"amenities": [
+			{
+				"name": "Public Transport",
+				"class": "subway",
+				"key": "public transport"
+			},
+			{
+				"name": "Credit Card Accepted",
+				"class": "credit-card",
+				"key": "card"
+			}
+		],
+		"chainId": 2,
+		"chainUnique": 2,
+		"city": "London",
+		"country": "United Kingdom",
+		"cuisine": [
+			{
+				"name": "Persian"
+			}
+		],
+		"cuisines": [
+			{
+				"name": "Persian"
+			}
+		],
+		"deliveryPartners": [
+			{
+				"id": "uber-eats-uk",
+				"name": "UberEats UK",
+				"displayName": "UberEats",
+				"countryCode": "GBR",
+				"currencyCode": "GBP",
+				"website": "https://ubereats.com/gb/",
+				"webUrl": "https://www.ubereats.com/gb/london/food-delivery/alounak-restaurant/cHa1Ilx7SweaxoZ9Kwex_g"
+			}
+		],
+		"description": "Persian cooking in a traditionally styled setting, plus a BYO drink policy.",
+		"email": null,
+		"enableDeliveryPartners": true,
+		"fairTradeDescription": null,
+		"fairTradeDescriptionDate": null,
+		"fairTradeDescriptionSource": null,
+		"featured": false,
+		"foursquareVenueId": null,
+		"googlePlaceDetails": {},
+		"googlePlaceId": "ChIJC6tUb5QPdkgR4ml7TjvLnxU",
+		"halalAuthorities": [],
+		"halalDescription": "All meat halal",
+		"halalDescriptionDate": "Sun, 22 Mar 2020 18:28:34 GMT",
+		"halalDescriptionSource": "halalgirlabouttown.com",
+		"halalMeat": true,
+		"halalRating": [],
+		"hasThumb": true,
+		"hmcCertified": false,
+		"id": 3,
+		"isFastFood": false,
+		"latitude": 51.5001374,
+		"locationName": "Kensington",
+		"longitude": -0.2110738,
+		"name": "Alounak",
+		"nickname": "Alounak Kensington",
+		"parkingDescription": null,
+		"parkingDescriptionDate": null,
+		"parkingDescriptionSource": null,
+		"pdfMenuUrl": null,
+		"postcode": "W14 8EZ",
+		"show": true,
+		"tags": [],
+		"telephone": "+442076031130",
+		"thumbUrl": "ChIJC6tUb5QPdkgR4ml7TjvLnxU.jpg",
+		"web": "http://alounakrestaurant.co.uk/",
+		"lastUpdatedDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdBy": "unknown",
+		"googleMapsUrl": "https://maps.google.com/?cid=1558187451673700834",
+		"googleRating": 3.8
+	},
+	{
+		"unique": "B1qcY6bDG",
+		"address": "53 Shaftesbury Ave, Soho, London W1D 6LB, UK",
+		"alcoholServed": false,
+		"amenities": [
+			{
+				"name": "Public Transport",
+				"class": "subway",
+				"key": "public transport"
+			},
+			{
+				"name": "Credit Card Accepted",
+				"class": "credit-card",
+				"key": "card"
+			},
+			{
+				"name": "Wheelchair Accessible",
+				"class": "wheelchair",
+				"key": "wheelchair"
+			}
+		],
+		"chainId": 6,
+		"chainUnique": 6,
+		"city": "London",
+		"country": "United Kingdom",
+		"cuisine": [
+			{
+				"name": "Turkish"
+			},
+			{
+				"name": "Mediterranean"
+			}
+		],
+		"cuisines": [
+			{
+				"name": "Turkish"
+			},
+			{
+				"name": "Mediterranean"
+			}
+		],
+		"deliveryPartners": [],
+		"description": "Slick spot serving pide (Turkish pizza), mezze and grilled meats, accompanied by Turkish wines.",
+		"email": "info@babji.com.tr",
+		"enableDeliveryPartners": false,
+		"fairTradeDescription": null,
+		"fairTradeDescriptionDate": null,
+		"fairTradeDescriptionSource": null,
+		"featured": false,
+		"foursquareVenueId": null,
+		"googlePlaceDetails": {},
+		"googlePlaceId": "ChIJhSpHrNMEdkgRyl0L3fy3hws",
+		"halalAuthorities": [],
+		"halalDescription": null,
+		"halalDescriptionDate": "Wed, 14 Feb 2018 14:37:04 GMT",
+		"halalDescriptionSource": "mybigfathalalblog.com",
+		"halalMeat": true,
+		"halalRating": [],
+		"hasThumb": true,
+		"hmcCertified": false,
+		"id": 8,
+		"isFastFood": false,
+		"latitude": 51.511961,
+		"locationName": "Soho",
+		"longitude": -0.132404,
+		"name": "Babaji Pide",
+		"nickname": "Babaji Pide Soho",
+		"parkingDescription": null,
+		"parkingDescriptionDate": null,
+		"parkingDescriptionSource": null,
+		"pdfMenuUrl": null,
+		"postcode": "W1D 6LB",
+		"show": true,
+		"tags": [],
+		"telephone": "+442033273888",
+		"thumbUrl": "ChIJhSpHrNMEdkgRyl0L3fy3hws.jpg",
+		"web": "http://babaji.com.tr/",
+		"lastUpdatedDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdBy": "unknown",
+		"googleMapsUrl": "https://maps.google.com/?cid=830834952941297098",
+		"googleRating": 4.2
+	},
+	{
+		"unique": "r1giYa-Df",
+		"address": "58 Evering Rd, London N16 7SR, UK",
+		"alcoholServed": false,
+		"amenities": [
+			{
+				"name": "Public Transport",
+				"class": "subway",
+				"key": "public transport"
+			}
+		],
+		"chainId": 7,
+		"chainUnique": 7,
+		"city": "London",
+		"country": "United Kingdom",
+		"cuisine": [
+			{
+				"name": "Brunch"
+			},
+			{
+				"name": "Cafe"
+			}
+		],
+		"cuisines": [
+			{
+				"name": "Brunch"
+			},
+			{
+				"name": "Cafe"
+			}
+		],
+		"deliveryPartners": [],
+		"description": "Family run Speciality Coffee & Tea, House Bakes & Brunch.",
+		"email": "info@bakestreet.co.uk",
+		"enableDeliveryPartners": false,
+		"fairTradeDescription": null,
+		"fairTradeDescriptionDate": null,
+		"fairTradeDescriptionSource": null,
+		"featured": false,
+		"foursquareVenueId": null,
+		"googlePlaceDetails": {},
+		"googlePlaceId": "ChIJyYx1EV8cdkgR54x0E70VjlQ",
+		"halalAuthorities": [],
+		"halalDescription": "Everything is Halal. Muslim run.",
+		"halalDescriptionDate": "Thu, 02 Jan 2020 15:15:35 GMT",
+		"halalDescriptionSource": "joint:owner",
+		"halalMeat": true,
+		"halalRating": [
+			"all-meat-halal"
+		],
+		"hasThumb": true,
+		"hmcCertified": false,
+		"id": 9,
+		"isFastFood": false,
+		"latitude": 51.558708,
+		"locationName": "Stoke Newington",
+		"longitude": -0.066647,
+		"name": "Bake Street",
+		"nickname": "Bake Street Stoke Newington",
+		"parkingDescription": null,
+		"parkingDescriptionDate": null,
+		"parkingDescriptionSource": null,
+		"pdfMenuUrl": null,
+		"postcode": "N16 7SR",
+		"show": true,
+		"tags": [],
+		"telephone": "+442076837177",
+		"thumbUrl": "ChIJyYx1EV8cdkgR54x0E70VjlQ.jpg",
+		"web": "http://bakestreet.co.uk/",
+		"lastUpdatedDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdBy": "unknown",
+		"googleMapsUrl": "https://maps.google.com/?cid=6092831247698267367",
+		"googleRating": 4.7
+	},
+	{
+		"unique": "rkDstp-Pz",
+		"address": "103 Wardour St, Soho, London W1F 0UG, UK",
+		"alcoholServed": false,
+		"amenities": [
+			{
+				"name": "Public Transport",
+				"class": "subway",
+				"key": "public transport"
+			}
+		],
+		"chainId": 8,
+		"chainUnique": 8,
+		"city": "London",
+		"country": "United Kingdom",
+		"cuisine": [
+			{
+				"name": "Asian"
+			},
+			{
+				"name": "Pan Asian"
+			}
+		],
+		"cuisines": [
+			{
+				"name": "Asian"
+			},
+			{
+				"name": "Pan Asian"
+			}
+		],
+		"deliveryPartners": [],
+		"description": "Canteen-style Indochinese venue with an open kitchen and communal tables ",
+		"email": null,
+		"enableDeliveryPartners": false,
+		"fairTradeDescription": null,
+		"fairTradeDescriptionDate": null,
+		"fairTradeDescriptionSource": null,
+		"featured": false,
+		"foursquareVenueId": null,
+		"googlePlaceDetails": {},
+		"googlePlaceId": "ChIJNyG8bdMEdkgRTf93j7EbIDA",
+		"halalAuthorities": [],
+		"halalDescription": null,
+		"halalDescriptionDate": "Wed, 14 Feb 2018 14:37:17 GMT",
+		"halalDescriptionSource": null,
+		"halalMeat": true,
+		"halalRating": [],
+		"hasThumb": true,
+		"hmcCertified": false,
+		"id": 10,
+		"isFastFood": false,
+		"latitude": 51.513132,
+		"locationName": "Soho",
+		"longitude": -0.133781,
+		"name": "Banana Tree",
+		"nickname": "Banana Tree Soho",
+		"parkingDescription": null,
+		"parkingDescriptionDate": null,
+		"parkingDescriptionSource": null,
+		"pdfMenuUrl": null,
+		"postcode": "W1F 0UG",
+		"show": true,
+		"tags": [],
+		"telephone": "+442074371351",
+		"thumbUrl": "ChIJNyG8bdMEdkgRTf93j7EbIDA.jpg",
+		"web": "http://bananatree.co.uk",
+		"lastUpdatedDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdDate": "Wed, 13 May 2020 19:52:57 GMT",
+		"createdBy": "unknown",
+		"googleMapsUrl": "https://maps.google.com/?cid=3467802162505449293",
+		"googleRating": 4.1
+	}
+]
